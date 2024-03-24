@@ -1,0 +1,25 @@
+
+.card{
+    margin-left: 40%;
+    margin-top: 15%;
+    padding:20px;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    
+}
+
+.clender,input{
+      width: 200px;
+      height: 40px;
+      border-radius: 4px;
+}
+
+.totalAge{
+    margin-top: 40px;
+    margin-left: 102px;
+}
+.totalAge,button{
+    height: 30px;
+}
